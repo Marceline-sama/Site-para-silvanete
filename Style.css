@@ -1,6 +1,26 @@
+
 body{
-    background-color: #aeaeae;    
+    background-color: #aeaeae;        
+}
+#p1{
 
-
-        
+}
+.odd{
+    border-style: outset;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    font-size: larger;
+    color:black
+}
+#p2{
+   
+}
+.barra-sup{
+    border-style: outset;
+    border-width: 10px;
+    border-color: white;
+    padding: 30px;
+    color: white;
 }
